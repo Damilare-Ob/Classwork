@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\Directories\\Directories.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\Directories\\Directories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\Directories\\Directories.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\Directories\\Directories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\Directories\\Directories.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\Directories\\Directories.csproj",
         "projectName": "Directories",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\Directories\\Directories.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\Directories\\Directories.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\Directories\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\Directories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Interpolation\\Interpolation.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Interpolation\\Interpolation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Interpolation\\Interpolation.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Interpolation\\Interpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Interpolation\\Interpolation.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Interpolation\\Interpolation.csproj",
         "projectName": "Interpolation",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Interpolation\\Interpolation.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Interpolation\\Interpolation.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Interpolation\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Interpolation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\DataTypes\\DataTypes.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\DataTypes\\DataTypes.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\DataTypes\\DataTypes.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\DataTypes\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

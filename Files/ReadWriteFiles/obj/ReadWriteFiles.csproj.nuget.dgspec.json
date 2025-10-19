@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "projectName": "ReadWriteFiles",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Files\\ReadWriteFiles\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Files\\ReadWriteFiles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

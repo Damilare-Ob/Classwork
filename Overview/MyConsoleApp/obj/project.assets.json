@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Overview\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Overview\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

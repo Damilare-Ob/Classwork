@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Formatting\\Formatting.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Formatting\\Formatting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Formatting\\Formatting.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Formatting\\Formatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Formatting\\Formatting.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Formatting\\Formatting.csproj",
         "projectName": "Formatting",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Formatting\\Formatting.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Formatting\\Formatting.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Strings\\Formatting\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Strings\\Formatting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

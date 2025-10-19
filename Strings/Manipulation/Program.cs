@@ -4,7 +4,7 @@
 string str1 = "The quick brown fox jumps over the lazy dog.";
 string str2 = "This is a string";
 string str3 = "THIS is a STRING";
-string strs = {"one", "two", "three", "four" };
+string[] strs = { "one", "two", "three", "four" };
 
 // TODO: Length of a string 
 

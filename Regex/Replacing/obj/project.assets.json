@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Replacing\\Replacing.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Replacing\\Replacing.csproj",
       "projectName": "Replacing",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Replacing\\Replacing.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Replacing\\Replacing.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Replacing\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Replacing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Finding\\Finding.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Finding\\Finding.csproj",
       "projectName": "Finding",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Finding\\Finding.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Finding\\Finding.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\Regex\\Finding\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\Regex\\Finding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

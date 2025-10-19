@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
       "projectName": "ParseNumbers",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\ParseNumbers\\ParseNumbers.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\ParseNumbers\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\ParseNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

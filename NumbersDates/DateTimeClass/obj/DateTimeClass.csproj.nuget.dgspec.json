@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
         "projectName": "DateTimeClass",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

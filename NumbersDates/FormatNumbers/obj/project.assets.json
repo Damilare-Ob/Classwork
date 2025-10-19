@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
       "projectName": "FormatNumbers",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\FormatNumbers\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\FormatNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

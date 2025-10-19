@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DJrhNS6n//s=",
+  "dgSpecHash": "Rg+e2b5IEh8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Documents\\My programs\\C#\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
