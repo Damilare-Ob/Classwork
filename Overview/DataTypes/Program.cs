@@ -20,6 +20,9 @@ Console.WriteLine($"{f + c}");
 // TODO: Create an instance of a struct (which is a value type)
 
 
+
+
+
 // Perform an operation on a struct
 void StructOp(s theStruct) {
     // Modify the struct properties inside the function
