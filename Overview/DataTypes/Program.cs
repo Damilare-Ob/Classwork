@@ -37,15 +37,19 @@ void StructOp(s theStruct) {
 // Console.WriteLine($"{s1.a}, {s1.b}");
 
 // TODO: Create an object instance of a class (which is a reference type)
-
-
+MyClass cl = new MyClass{a = 5, b = false};
 // Perform an operation on the class
 void ClassOp(MyClass theClass) {
-    // Modify some of the properties of the class inside the function
+// Modify some of the properties of the class inside the function
     theClass.a = 10;
     theClass.b = true;
     Console.WriteLine($"{theClass.a}, {theClass.b}");
 }
+    Console.WriteLine("Objects are passed by reference, since they are reference types:");
+    Console.WriteLine($"{cl.a}, {cl.b}");
+    ClassOp(cl);
+    Console.WriteLine($"{cl.a}, {cl.b}");
+
 
 // Console.WriteLine("Objects are passed by reference, since they are reference types:");
 // Console.WriteLine($"{cl.a}, {cl.b}");
